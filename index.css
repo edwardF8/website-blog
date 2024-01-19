@@ -3,15 +3,15 @@
 }*/
 
 .menubar{
-    display: flex;
     padding: 5px;
-    
+    display: flex;
 }
 
 .topButtons{
     align-items:right;
-    float:right; /* changed to right */
+    float:right;
 }
+
 
 #picofmeteehee{
     height:auto;
