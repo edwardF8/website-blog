@@ -1,0 +1,27 @@
+/* * {
+    border: 1px dashed black;
+}*/
+
+.menubar{
+    display: flex;
+    padding: 5px;
+    
+}
+
+.topButtons{
+    align-items:right;
+    float:right; /* changed to right */
+}
+
+#picofmeteehee{
+    height:auto;
+    width:auto;
+    max-width:29%;
+
+    float:left;
+    padding-left: 30px;
+}
+#mainbodydesc{
+    padding-top:auto;
+    padding-inline-start: 40%;
+}
