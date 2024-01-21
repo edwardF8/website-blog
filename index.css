@@ -1,25 +1,38 @@
-/* * {
+* {
     border: 1px dashed black;
-}*/
+}
 
-.menubar{
+.menubar {
     padding: 5px;
-    display: flex;
+    display: inline-block;
+    width: 50%; /* Adjust the width as needed */
 }
 
-.topButtons{
-    align-items:right;
-    float:right;
+.topButtons {
+    float: left;
+    margin-right: 10px; /* Adjust the margin as needed */
 }
 
 
-#picofmeteehee{
+#mainpagefeynmen {
+    float: right;
+    width: 40%; 
+    padding-top: 0.5%;
+    padding-left: 0.5%
+    margin: 0; /* Remove default margin for the quote */
+}
+.mainbody{
+    display: inline-block;
+    
+}
+
+#picofme{
     height:auto;
     width:auto;
     max-width:29%;
 
     float:left;
-    padding-left: 30px;
+    
 }
 #mainbodydesc{
     padding-top:auto;
