@@ -1,0 +1,24 @@
+* {
+    border: 1px dashed black;
+}
+/* Header Bar */
+.menubar {
+    padding: 5px;
+    display: inline-block;
+    width: 50%; /* Adjust the width as needed */
+}
+.topButtons {
+    float: right;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+
+#mainpagefeynmen {
+    float: right;
+    width: 40%; 
+    size:auto;
+    
+    padding:auto;
+    padding-right:5%
+}
+/* CONTENT */
