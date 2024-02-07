@@ -1,6 +1,6 @@
-* {
+/* {
     border: 1px dashed black;
-}
+} 
 /* Header Bar */
 .menubar {
     padding: 5px;
@@ -22,3 +22,40 @@
     padding-right:5%
 }
 /* CONTENT */
+
+.blogpost{
+    display: block;
+}
+.headingBp{
+    color:red;
+    display:inline-flex;
+}
+.bp{
+    display:inline-flex;
+    width:68%;
+    border: 5px solid black;
+}
+.rightside{
+    width:65%
+
+}
+.leftside{
+    width:35%;
+}
+.bpImages{
+    width:100%;
+    height:auto;
+}
+.titleBp{
+    font-size: 2vw;
+}
+.dateBp{
+    font-size: 2vw;
+    padding-left:2vh;
+}
+.descBp{
+    font-size:1.5vh;
+}
+.tags{
+    font-size:1.4vh;
+}
